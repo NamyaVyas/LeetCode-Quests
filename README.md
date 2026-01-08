@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Array
+|  |
+| ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1458-max-dot-product-of-two-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1458-max-dot-product-of-two-subsequences) |
 <!---LeetCode Topics End-->
