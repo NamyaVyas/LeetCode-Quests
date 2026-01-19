@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1895-largest-magic-square](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1895-largest-magic-square) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3454-separate-squares-ii) |
 ## Segment Tree
@@ -98,9 +100,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1895-largest-magic-square) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
