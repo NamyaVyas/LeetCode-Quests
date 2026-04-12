@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3640-trionic-array-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Math
 |  |
