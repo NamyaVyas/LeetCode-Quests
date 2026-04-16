@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3488-closest-equal-element-queries](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3719-longest-balanced-subarray-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3634-minimum-removals-to-balance-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3488-closest-equal-element-queries) |
 ## Segment Tree
 |  |
 | ------- |
