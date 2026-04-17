@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3721-longest-balanced-subarray-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3721-longest-balanced-subarray-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Geometry
 |  |
 | ------- |
