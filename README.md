@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3783-mirror-distance-of-an-integer) |
 ## Geometry
 |  |
 | ------- |
