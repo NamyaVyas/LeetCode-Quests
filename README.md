@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3453-separate-squares-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3488-closest-equal-element-queries) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0011-container-with-most-water) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
