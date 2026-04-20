@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sliding Window
 |  |
 | ------- |
