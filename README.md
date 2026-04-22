@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Math
 |  |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
