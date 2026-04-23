@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0460-lfu-cache) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [2615-sum-of-distances](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2615-sum-of-distances) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3488-closest-equal-element-queries](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3488-closest-equal-element-queries) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2615-sum-of-distances) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1895-largest-magic-square) |
+| [2615-sum-of-distances](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2615-sum-of-distances) |
 | [3719-longest-balanced-subarray-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3721-longest-balanced-subarray-ii) |
 ## Bit Manipulation
