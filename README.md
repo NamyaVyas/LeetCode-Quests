@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3454-separate-squares-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3783-mirror-distance-of-an-integer) |
 ## Geometry
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3453-separate-squares-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3454-separate-squares-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3488-closest-equal-element-queries) |
 ## Segment Tree
 |  |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2463-minimum-total-distance-traveled) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3634-minimum-removals-to-balance-array](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
 |  |
