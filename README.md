@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1559-detect-cycles-in-2d-grid) |
 ## String
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1895-largest-magic-square](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1895-largest-magic-square) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
 |  |
