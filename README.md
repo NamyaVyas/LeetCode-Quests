@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0788-rotated-digits](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0788-rotated-digits) |
 | [1266-minimum-time-visiting-all-points](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
