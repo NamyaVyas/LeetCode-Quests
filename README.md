@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0796-rotate-string](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2833-furthest-point-from-origin) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
