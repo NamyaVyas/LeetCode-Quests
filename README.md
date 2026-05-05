@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0460-lfu-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
