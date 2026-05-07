@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3660-jump-game-ix](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3660-jump-game-ix) |
 | [3719-longest-balanced-subarray-i](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3721-longest-balanced-subarray-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/2463-minimum-total-distance-traveled) |
 | [3640-trionic-array-ii](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3660-jump-game-ix](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/NamyaVyas/LeetCode-Quests/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Breadth-First Search
 |  |
